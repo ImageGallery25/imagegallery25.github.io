@@ -5,7 +5,7 @@ title: Welcome to Image Gallery
 
 # Welcome to Image Gallery
 
-EcoGallery is a project created by a team of developers who love nature and aim to promote its beauty through digital platforms. Our mission is to showcase stunning images of nature and inspire appreciation for the environment.
+Image Gallery is a project created by a team of developers who love nature and aim to promote its beauty through digital platforms. Our mission is to showcase stunning images of nature and inspire appreciation for the environment.
 
 ## About Image Gallery
 We believe that technology can be a tool for raising awareness about the beauty of the natural world. Through our various projects, we feature high-quality nature photography and promote the conservation of our planet.
