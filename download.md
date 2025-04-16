@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Your prefered movie
+permalink: /download/
+sitemap: false
 ---
 
 # Download section
